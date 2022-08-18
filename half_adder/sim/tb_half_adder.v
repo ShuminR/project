@@ -15,7 +15,7 @@ half_adder tb_half_adder
 		.in1	(in1),
 		.in2	(in2),
 		.sum	(sum),
-		.count	(count)
+		.cout	(cont)
 );
 
 endmodule
